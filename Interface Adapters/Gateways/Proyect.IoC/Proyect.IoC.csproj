@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Application Business Rules\Proyect.UseCases\Proyect.UseCases.csproj" />
+    <ProjectReference Include="..\..\Presenters\Proyect.Presenters\Proyect.Presenters.csproj" />
+    <ProjectReference Include="..\Proyect.RepositoryEFCore\Proyect.RepositoryEFCore.csproj" />
+  </ItemGroup>
+
+</Project>

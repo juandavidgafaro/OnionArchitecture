@@ -1,0 +1,17 @@
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\bin\Debug\net6.0\Proyect.Presenters.deps.json
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\bin\Debug\net6.0\Proyect.Presenters.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\bin\Debug\net6.0\Proyect.Presenters.pdb
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\bin\Debug\net6.0\Proyect.DTOs.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\bin\Debug\net6.0\Proyect.UseCasesPorts.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\bin\Debug\net6.0\Proyect.UseCasesPorts.pdb
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\bin\Debug\net6.0\Proyect.DTOs.pdb
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\obj\Debug\net6.0\Proyect.Presenters.csproj.AssemblyReference.cache
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\obj\Debug\net6.0\Proyect.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\obj\Debug\net6.0\Proyect.Presenters.AssemblyInfoInputs.cache
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\obj\Debug\net6.0\Proyect.Presenters.AssemblyInfo.cs
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\obj\Debug\net6.0\Proyect.Presenters.csproj.CoreCompileInputs.cache
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\obj\Debug\net6.0\Proyect.Presenters.csproj.CopyComplete
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\obj\Debug\net6.0\Proyect.Presenters.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\obj\Debug\net6.0\refint\Proyect.Presenters.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\obj\Debug\net6.0\Proyect.Presenters.pdb
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Presenters\Proyect.Presenters\obj\Debug\net6.0\ref\Proyect.Presenters.dll

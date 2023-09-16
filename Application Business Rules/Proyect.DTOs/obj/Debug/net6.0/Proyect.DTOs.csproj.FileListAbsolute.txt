@@ -1,0 +1,11 @@
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Application Business Rules\Proyect.DTOs\bin\Debug\net6.0\Proyect.DTOs.deps.json
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Application Business Rules\Proyect.DTOs\bin\Debug\net6.0\Proyect.DTOs.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Application Business Rules\Proyect.DTOs\bin\Debug\net6.0\Proyect.DTOs.pdb
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Application Business Rules\Proyect.DTOs\obj\Debug\net6.0\Proyect.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Application Business Rules\Proyect.DTOs\obj\Debug\net6.0\Proyect.DTOs.AssemblyInfoInputs.cache
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Application Business Rules\Proyect.DTOs\obj\Debug\net6.0\Proyect.DTOs.AssemblyInfo.cs
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Application Business Rules\Proyect.DTOs\obj\Debug\net6.0\Proyect.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Application Business Rules\Proyect.DTOs\obj\Debug\net6.0\Proyect.DTOs.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Application Business Rules\Proyect.DTOs\obj\Debug\net6.0\refint\Proyect.DTOs.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Application Business Rules\Proyect.DTOs\obj\Debug\net6.0\Proyect.DTOs.pdb
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Application Business Rules\Proyect.DTOs\obj\Debug\net6.0\ref\Proyect.DTOs.dll

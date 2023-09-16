@@ -1,0 +1,17 @@
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\bin\Debug\net6.0\Proyect.RepositoryEFCore.deps.json
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\bin\Debug\net6.0\Proyect.RepositoryEFCore.runtimeconfig.json
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\bin\Debug\net6.0\Proyect.RepositoryEFCore.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\bin\Debug\net6.0\Proyect.RepositoryEFCore.pdb
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\bin\Debug\net6.0\Proyect.Entities.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\bin\Debug\net6.0\Proyect.Entities.pdb
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\obj\Debug\net6.0\Proyect.RepositoryEFCore.csproj.AssemblyReference.cache
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\obj\Debug\net6.0\Proyect.RepositoryEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\obj\Debug\net6.0\Proyect.RepositoryEFCore.AssemblyInfoInputs.cache
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\obj\Debug\net6.0\Proyect.RepositoryEFCore.AssemblyInfo.cs
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\obj\Debug\net6.0\Proyect.RepositoryEFCore.csproj.CoreCompileInputs.cache
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\obj\Debug\net6.0\Proyect.RepositoryEFCore.csproj.CopyComplete
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\obj\Debug\net6.0\Proyect.RepositoryEFCore.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\obj\Debug\net6.0\refint\Proyect.RepositoryEFCore.dll
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\obj\Debug\net6.0\Proyect.RepositoryEFCore.pdb
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\obj\Debug\net6.0\Proyect.RepositoryEFCore.genruntimeconfig.cache
+C:\Users\David Garcia\Documents\Proyectos .NET\Clean Architecture\Onion\Interface Adapters\Gateways\Proyect.RepositoryEFCore\obj\Debug\net6.0\ref\Proyect.RepositoryEFCore.dll

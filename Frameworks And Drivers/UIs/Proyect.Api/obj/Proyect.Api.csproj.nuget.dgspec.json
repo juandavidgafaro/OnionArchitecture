@@ -1,0 +1,635 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Frameworks And Drivers\\UIs\\Proyect.Api\\Proyect.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.DTOs\\Proyect.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.DTOs\\Proyect.DTOs.csproj",
+        "projectName": "Proyect.DTOs",
+        "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.DTOs\\Proyect.DTOs.csproj",
+        "packagesPath": "C:\\Users\\David Garcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCasesPorts\\Proyect.UseCasesPorts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCasesPorts\\Proyect.UseCasesPorts.csproj",
+        "projectName": "Proyect.UseCasesPorts",
+        "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCasesPorts\\Proyect.UseCasesPorts.csproj",
+        "packagesPath": "C:\\Users\\David Garcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCasesPorts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.DTOs\\Proyect.DTOs.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.DTOs\\Proyect.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCases\\Proyect.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCases\\Proyect.UseCases.csproj",
+        "projectName": "Proyect.UseCases",
+        "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCases\\Proyect.UseCases.csproj",
+        "packagesPath": "C:\\Users\\David Garcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCasesPorts\\Proyect.UseCasesPorts.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCasesPorts\\Proyect.UseCasesPorts.csproj"
+              },
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Enterprise Business Rules\\Proyect.Entities\\Proyect.Entities.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Enterprise Business Rules\\Proyect.Entities\\Proyect.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Enterprise Business Rules\\Proyect.Entities\\Proyect.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Enterprise Business Rules\\Proyect.Entities\\Proyect.Entities.csproj",
+        "projectName": "Proyect.Entities",
+        "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Enterprise Business Rules\\Proyect.Entities\\Proyect.Entities.csproj",
+        "packagesPath": "C:\\Users\\David Garcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Enterprise Business Rules\\Proyect.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Frameworks And Drivers\\UIs\\Proyect.Api\\Proyect.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Frameworks And Drivers\\UIs\\Proyect.Api\\Proyect.Api.csproj",
+        "projectName": "Proyect.Api",
+        "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Frameworks And Drivers\\UIs\\Proyect.Api\\Proyect.Api.csproj",
+        "packagesPath": "C:\\Users\\David Garcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Frameworks And Drivers\\UIs\\Proyect.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Controllers\\Proyect.Controllers\\Proyect.Controllers.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Controllers\\Proyect.Controllers\\Proyect.Controllers.csproj"
+              },
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.IoC\\Proyect.IoC.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.IoC\\Proyect.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Controllers\\Proyect.Controllers\\Proyect.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Controllers\\Proyect.Controllers\\Proyect.Controllers.csproj",
+        "projectName": "Proyect.Controllers",
+        "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Controllers\\Proyect.Controllers\\Proyect.Controllers.csproj",
+        "packagesPath": "C:\\Users\\David Garcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Controllers\\Proyect.Controllers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCasesPorts\\Proyect.UseCasesPorts.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCasesPorts\\Proyect.UseCasesPorts.csproj"
+              },
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Presenters\\Proyect.Presenters\\Proyect.Presenters.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Presenters\\Proyect.Presenters\\Proyect.Presenters.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.IoC\\Proyect.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.IoC\\Proyect.IoC.csproj",
+        "projectName": "Proyect.IoC",
+        "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.IoC\\Proyect.IoC.csproj",
+        "packagesPath": "C:\\Users\\David Garcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCases\\Proyect.UseCases.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCases\\Proyect.UseCases.csproj"
+              },
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.RepositoryEFCore\\Proyect.RepositoryEFCore.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.RepositoryEFCore\\Proyect.RepositoryEFCore.csproj"
+              },
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Presenters\\Proyect.Presenters\\Proyect.Presenters.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Presenters\\Proyect.Presenters\\Proyect.Presenters.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.RepositoryEFCore\\Proyect.RepositoryEFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.RepositoryEFCore\\Proyect.RepositoryEFCore.csproj",
+        "projectName": "Proyect.RepositoryEFCore",
+        "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.RepositoryEFCore\\Proyect.RepositoryEFCore.csproj",
+        "packagesPath": "C:\\Users\\David Garcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Gateways\\Proyect.RepositoryEFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Enterprise Business Rules\\Proyect.Entities\\Proyect.Entities.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Enterprise Business Rules\\Proyect.Entities\\Proyect.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Presenters\\Proyect.Presenters\\Proyect.Presenters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Presenters\\Proyect.Presenters\\Proyect.Presenters.csproj",
+        "projectName": "Proyect.Presenters",
+        "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Presenters\\Proyect.Presenters\\Proyect.Presenters.csproj",
+        "packagesPath": "C:\\Users\\David Garcia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Interface Adapters\\Presenters\\Proyect.Presenters\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCasesPorts\\Proyect.UseCasesPorts.csproj": {
+                "projectPath": "C:\\Users\\David Garcia\\Documents\\Proyectos .NET\\Clean Architecture\\Onion\\Application Business Rules\\Proyect.UseCasesPorts\\Proyect.UseCasesPorts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Build.Utilities.Core": {
+              "target": "Package",
+              "version": "[17.7.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
