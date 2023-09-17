@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Proyect.Entities.POCOs;
+﻿using Proyect.Entities.POCOs;
 
 namespace Proyect.Entities.Interfaces
 {
@@ -7,6 +6,6 @@ namespace Proyect.Entities.Interfaces
     {
         void Create(Product product);
         IEnumerable<Product> GetAll();
-        IActionResult Delete (int id);
+        bool Delete(int id);
     }
 }

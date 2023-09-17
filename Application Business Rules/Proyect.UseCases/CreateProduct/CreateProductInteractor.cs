@@ -30,8 +30,7 @@ namespace Proyect.UseCases.CreateProduct
                 {
                     Id = NewProduct.Id,
                     Name = NewProduct.Name
-                }
-                );
+                });
         }
     }
 }

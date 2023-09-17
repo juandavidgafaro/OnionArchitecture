@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Proyect.UseCases.CreateProduct;
+using Proyect.UseCases.DeleteProduct;
 using Proyect.UseCases.GetAllProducts;
 using Proyect.UseCasesPorts;
 
@@ -11,6 +12,7 @@ namespace Proyect.UseCases
         {
             services.AddTransient<ICreateProductInputPort, CreateProductInteractor>();
             services.AddTransient<IGetAllProductsInputPort, GetAllProductsInteractor>();
+            services.AddTransient<IDeleteProductInputPort, DeleteProductInteractor>();
 
             return services;
         }

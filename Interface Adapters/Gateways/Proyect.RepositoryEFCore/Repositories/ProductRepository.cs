@@ -16,6 +16,13 @@ namespace Proyect.RepositoryEFCore.Repositories
             _proyectContext.Add(product);
         }
 
+        public bool Delete(int id)
+        {
+            var result = _proyectContext.RemoveById<Product>(id);
+
+            return result;
+        }
+
         public IEnumerable<Product> GetAll()
         {
             return _proyectContext.Products;

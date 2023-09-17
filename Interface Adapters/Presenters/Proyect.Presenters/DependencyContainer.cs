@@ -10,6 +10,7 @@ namespace Proyect.Presenters
         {
             services.AddScoped<ICreateProductOutputPort, CreateProductPresenter>();
             services.AddScoped<IGetAllProductsOutputPort, GetAllProductsPresenter>();
+            services.AddScoped<IDeleteProductOutputPort, DeleteProductPresenter>();
 
             return services;
         }
